@@ -1,0 +1,11 @@
+name: mojo-rul
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - polars
+  - pyarrow
+  - python=3.11
+  - scikit-learn
+  - seaborn
