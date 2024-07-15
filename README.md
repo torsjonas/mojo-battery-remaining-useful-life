@@ -1,6 +1,6 @@
 # Trying out Mojo 24.4 with data science libs
 This project was just for learning the basics of executing mojo code within a conda environment,
-and in this case how commong data science libs such as numpy, pandas, polars and scikit-learn
+and in this case how common data science libs such as numpy, pandas, polars and scikit-learn
 can be imported and used in mojo.
 
 TODO: replace python libs when the community adds native counterparts for managing DataFrames etc.
