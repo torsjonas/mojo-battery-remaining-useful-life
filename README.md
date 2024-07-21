@@ -14,8 +14,8 @@ Mojo does not include a python binary, but it will look for one on the top of th
 
 3. Install the conda environment
 ```bash
-conda env create -f environment.yaml -n mojo-rul
-conda activate mojo-rul
+conda env create -f environment.yaml -n mojo-battery-remaining-useful-life
+conda activate mojo-battery-remaining-useful-life
 ```
 
 4. Run the code
