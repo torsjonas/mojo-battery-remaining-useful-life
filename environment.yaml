@@ -1,4 +1,4 @@
-name: mojo-rul
+name: mojo-battery-remaining-useful-life
 channels:
   - conda-forge
 dependencies:
